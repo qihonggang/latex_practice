@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.4.10)  11 APR 2019 14:36
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.4.10)  11 APR 2019 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,7 +23,8 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./my_first_tex.aux)
+)
+No file my_first_tex.aux.
 \openout1 = `my_first_tex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -40,12 +41,12 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
- [1
+[1
 
 ] (./my_first_tex.aux) ) 
 Here is how much of TeX's memory you used:
- 203 strings out of 494895
- 2276 string characters out of 6176372
+ 201 strings out of 494895
+ 2242 string characters out of 6176372
  57213 words of memory out of 5000000
  4175 multiletter control sequences out of 15000+600000
  3648 words of font info for 15 fonts, out of 8000000 for 9000
