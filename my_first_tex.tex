@@ -1,6 +1,47 @@
-\documentclass{article}
-% 这里是导言区
+\documentclass[UTF8]{ctexart}
+\usepackage{amsmath}
+% CJK写法，不推荐
+% \documentclass{article}
+% \usepackage{xecjk}
+% \setCJKmainfont{SimSun}
+
+% 组织
+\title{你好，world！}
+\author{祁宏钢}
+\date{\today}
 \begin{document}
-    Hello, world!
+\tableofcontents
+\maketitle
+\section{你好中国}
+中国在East Asia.
+\subsection{Hello Beijing}
+北京是captital of China.
+\subsubsection{Hello Dongcheng District}
+\paragraph{Tian'anmen Square}
+is in the center of Beijing
+\subparagraph{Chariman Mao}
+is in the center of 天安门广场。
+\subsection{Hello 山东}
+\paragraph{山东大学} is one of the best university in 山东。
+
+% 公式
+Einstein's $E=mc^2$.
+\[ E=mc^2. \]
+\begin{equation}
+    E=mc^2.
+\end{equation}
+\[z = r\cdot e^{2\Pi i}.\]
+% 根式与分数式
+$\sqrt{x}$, $\frac{1}{2}$.
+\[ \sqrt{x}, \]
+\[ \frac{1}{2}. \]
+% 运算符
+\[ \pm\; \times \; \div\; \cdot\; \cup\;
+\geq\; \leq\; \neq\; \approx \; \equiv  \]
+$ \sum_{i=1}^n i\quad \prod_{i=1}^n $
+$ \sum\limits _{i=1}^n i\quad \prod\limits _{i=1}^n $
+\[ \lim_{x\to0}x^2 \quad \int_a^b x^2 dx \]
+\[ \lim\nolimits _{x\to0}x^2\quad \int\nolimits_a^b x^2 dx \]
+\[ \iint\quad \iiint\quad \iiiint\quad \idotsint \]
 \end{document}
 
